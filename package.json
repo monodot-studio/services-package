@@ -1,7 +1,7 @@
 {
   "name": "com.monodot.private.services",
-  "displayName": "RealityCollective.Service-Framework",
-  "description": "The Service Framework component for the Reality Toolkit by the Reality Collective.",
+  "displayName": "monodot - Services",
+  "description": "Forked from RealityCollective. The Service Framework component for the Reality Toolkit by the Reality Collective.",
   "keywords": [
     "unity",
     "Tools",
